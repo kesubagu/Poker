@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1442286013 source:c:\users\keshav\desktop\c program files\combo_analyzer.cpp
+	"COMBO.hpp"
+	<cstring>
+	<iostream>
+
+1442286066 c:\users\keshav\desktop\c program files\poker\combo.hpp
+	<string>
+
+1442854331 source:c:\users\keshav\desktop\c program files\poker\main.cpp
+	<iostream>
+	<cstring>
+	"analyzer.h"
+
+1442851121 source:c:\users\keshav\desktop\c program files\poker\analyzer.cpp
+	<cstring>
+	<iostream>
+
+1442853894 c:\users\keshav\desktop\c program files\poker\analyzer.h
+
